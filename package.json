@@ -1,0 +1,20 @@
+{
+  "name": "ssltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "sslcommerz": "^1.7.0",
+    "sslcommerz-lts": "^1.1.0"
+  }
+}
